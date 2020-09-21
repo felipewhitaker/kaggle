@@ -4,5 +4,13 @@ This is a collection of the projects I coded while studying. My main interests a
 
 During the writting of this README, the world is living one of the worst health crisis of the last hundred years - so I am mainly studying free content through the internet. I might add links and references.
 
-Right now things as not as organized as I would like them to be - or it might be mostly empty - but it's where I will push things and will be updating from time to time.
+Right now things as not as organized as I would like them to be - or it might be mostly empty - but it's where I will push things and will be updating from time to time. 
+
+
+
+----
+
+
+
+If you would like to try any of the notebooks, you can open it on [Google Colab](https://colab.research.google.com/) just by changing github's url `https://github.com` to `https://githubtocolab.com`.
 
